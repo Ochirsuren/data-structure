@@ -7,7 +7,7 @@ VisuAlgo BST 모드에서 4, 2, 6, 1, 3, 7 순서로 삽입했다.
 - 루트: 4 / 왼쪽 자식: 2 (자식 1, 3) / 오른쪽 자식: 6 (오른쪽 자식 7)
 - 높이 2, 노드 6개, 리프 3개(1, 3, 7)
 
-![VisuAlgo 캡처](visualgo_bst.png)
+   ![VisuAlgo 캡처](visualgo_bst.png.png)
 
 ## 2. 방문 순서 수동 trace
 
